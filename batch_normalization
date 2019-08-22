@@ -1,0 +1,12 @@
+## batch normalization文献参考
+
+详细介绍在：
+1、http://www.elecfans.com/d/800487.html
+2、https://blog.csdn.net/u012526003/article/details/83015367
+3、https://zhuanlan.zhihu.com/p/33173246
+4、https://blog.csdn.net/Fate_fjh/article/details/53375881
+
+
+训练时和测试时参数的区别：
+1、https://blog.csdn.net/OliverkingLi/article/details/95970463
+2、https://blog.csdn.net/u010402786/article/details/51233854
